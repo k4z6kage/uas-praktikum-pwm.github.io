@@ -1,0 +1,44 @@
+
+
+[
+        {
+        "id":1,    
+        "Judul":"Ayam Goreng Sambal Pedas",
+        "Gambar":"images/ayam-goreng-sambal-pedas.jpg",
+        "deskripsi":"ayam goreng sambal pedas rasanaya jos"
+        },
+        {
+        "id":2,    
+        "Judul":"Bakso",
+        "Gambar":"images/bakso.jpg",
+        "deskripsi":"Bakso kuah dengan rasa dan aroma yang berbeda dari yang lainnya dijamin mantap"
+        },
+        {
+        "id":3,    
+        "Judul":"Martabak",
+        "Gambar":"images/martabak.jpg",
+        "deskripsi":"martabak kotak yang punya cita rasa uenak"
+        },
+        {
+        "id":4,    
+        "Judul":"Mie Kuah",
+        "Gambar":"images/mie-kuah.jpeg",
+        "deskripsi":"Mie Kuah dengan bumbu lada yang di racik dengan tangan jenius yang rasanya lezat sekali"
+        },
+         {
+        "id":5,    
+        "Judul":"Sate Kambing",
+        "Gambar":"images/sate-kambing.jpg",
+        "deskripsi":"sate kambing yang terbuat dari kambing asli dan halal"
+        },
+        {
+        "id":6,    
+        "Judul":"Tahu Goreng",
+        "Gambar":"images/tahu-goreng.jpg",
+        "deskripsi":"tahu goreng dengan balutan tepung adonan di atasnya.."
+        }
+
+       
+      
+  ]
+
